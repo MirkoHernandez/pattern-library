@@ -1,0 +1,20 @@
+{
+   "name": "pattern-library",
+   "version": "1.0.0",
+   "description": "",
+   "main": "index.js",
+   "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+   },
+   "author": "",
+   "license": "MIT",
+   "dependencies": {},
+   "devDependencies": {
+      "@frctl/fractal": "*",
+      "del": "*",
+      "gulp": "*",
+      "gulp-sass": "*",
+      "gulp-sass-glob": "^1.0.9",
+      "gulp-help-doc":"*"
+   }
+}
