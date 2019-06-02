@@ -15,6 +15,7 @@
       "gulp": "*",
       "gulp-sass": "*",
       "gulp-sass-glob": "^1.0.9",
-      "gulp-help-doc":"*"
+      "gulp-help-doc": "*",
+      "axios": "*"
    }
 }
